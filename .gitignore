@@ -1,0 +1,14 @@
+# Ignore build and distribution directories
+/build/
+/dist/
+
+# Ignore NetBeans specific project files
+/nbproject/
+
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
